@@ -1,6 +1,6 @@
 # ieee-sig-react
 
-Classwise repositories to keep things in track for ReactJS Sig.
+Classwise repositories to keep things on track for React JS SIG.
 
 ### Prerequisite
 
