@@ -8,5 +8,5 @@
     * Why is it Fast? Efficiently updates and render the right component when you data changes.
     * Virtual DOM (https://www.geeksforgeeks.org/reactjs-virtual-dom/)
     * Nesting of Component
-* Facebook component  loading example
+* Facebook component loading example
 * Stackblitz.com 
